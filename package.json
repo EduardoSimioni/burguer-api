@@ -1,0 +1,27 @@
+{
+  "name": "burguer-api",
+  "version": "1.0.0",
+  "description": "This project is an application that records the orders of a hamburger shop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoSimioni/burguer-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoSimioni/burguer-api/issues"
+  },
+  "homepage": "https://github.com/EduardoSimioni/burguer-api#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
