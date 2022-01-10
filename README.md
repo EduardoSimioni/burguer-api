@@ -25,6 +25,7 @@ Também possui dois middlewares, um que checa o id enviado, e se estiver incorre
 E outro que exibe no console o tipo da requisição e a url toda vez que uma requisição é chamada.
 
 Tecnologias utilizadas: / Technologies used:
+<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  </a>
