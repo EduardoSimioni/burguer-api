@@ -23,3 +23,10 @@ E por último uma do tipo patch que muda o status do pedido de "Em preparação"
 
 Também possui dois middlewares, um que checa o id enviado, e se estiver incorreto ou for inexistente ele retorna uma mensagem de erro.
 E outro que exibe no console o tipo da requisição e a url toda vez que uma requisição é chamada.
+
+Tecnologias utilizadas: / Technologies used:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ </a>
+ <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+   
