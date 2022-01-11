@@ -2,7 +2,7 @@
 
 This project is an application that records the orders of a hamburger shop.
 
-It has six routes, one of the put type that shows the list of all requests, and the other of the get type that returns a specific request by id.
+It has six routes, one of the get type that shows the list of all requests, and the other of the get type that returns a specific request by id.
 It has a post type that registers the order, with the customer's name, the price, and creates a specific id and adds the status "in preparation".
 A put-type route that alters the request data by sending the new ones through the request body.
 One of the delete type that deletes the order with the sent id.
@@ -15,7 +15,7 @@ And another one that displays the request type and url on the console every time
 
 Este projeto é um aplicativo que registra os pedidos de uma lanchonete.
 
-Ele possui seis rotas, uma do tipo put que mostra a lista com todos os pedidos, e outra do tipo get que retorna um pedido específico pelo id.
+Ele possui seis rotas, uma do tipo get que mostra a lista com todos os pedidos, e outra do tipo get que retorna um pedido específico pelo id.
 Possui uma do tipo post que registra o pedido, com o nome do cliente, o preço, e cria um id específico e adiciona o status "em preparação".
 Uma rota do tipo put que altera os dados do pedido enviando os novos pelo corpo da requisição.
 Uma do tipo delete que deleta o pedido com o id enviado.
